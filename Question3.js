@@ -1,3 +1,4 @@
+//please use the following functions to replace add function of loadsh.js
 var curry = function(fn) {
     var _arg = [];
     return function temp() {
