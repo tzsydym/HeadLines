@@ -1,0 +1,9 @@
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\bin\HeadlinesWithLocations.dll.config
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\bin\HeadlinesWithLocations.dll
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\bin\HeadlinesWithLocations.pdb
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\obj\Debug\HeadlinesWithLocations.csprojResolveAssemblyReference.cache
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\obj\Debug\HeadlinesWithLocations.csproj.CoreCompileInputs.cache
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\obj\Debug\HeadlinesWithLocations.dll
+C:\Users\Du Yiming\source\repos\HeadlinesWithLocations\HeadlinesWithLocations\obj\Debug\HeadlinesWithLocations.pdb
