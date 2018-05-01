@@ -1,19 +1,16 @@
-//please use the following functions to replace add function of loadsh.js
-var curry = function(fn) {
-    var _arg = [];
-    return function temp() {
-        if (arguments.length === 0) {
-            return fn.apply(null, _arg);
+function add(a) {
+    var sum = 0;    
+        sum = createMathOperation((augend, addend) => augend + addend, 0)(sum,a);        
+    var temp = function(b) {    
+        if(arguments.length===0){
+            return sum;
         } else {
-            _arg = _arg.concat([].slice.call(arguments));
+            sum = sum+ b;
             return temp;
         }
+    }  
+    temp.toString = temp.valueOf = function() {
+        return sum; 
     }
+    return temp;
 }
-const add = curry(function() {    
-    var i=0,len = arguments.length,sum = 0;
-    for (i; i<len; i+=1) {
-        sum = createMathOperation((augend, addend) => augend + addend, 0)(sum,arguments[i])        
-    }
-    return sum
-});
